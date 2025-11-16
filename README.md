@@ -4,6 +4,8 @@
 
 ### Tech Stack
 
+-   **[Cloudinary](https://cloudinary.com/)** Image and Video API Platform.
+
 -   **[Express.js](https://expressjs.com/)** a fast, unopinionated, minimalist web framework for Node.js
 
 -   **[JSON Web Token (JWT)](https://jwt.io/)** an open standard used to share security information.

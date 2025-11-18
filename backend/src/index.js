@@ -8,6 +8,9 @@ const app = express();
 
 const PORT = process.env.PORT || 5001;
 
+// Allow extracting json data out of the requests body
+app.use(express.json());
+
 // Authentication route
 app.use("/api/auth", authRoutes);
 

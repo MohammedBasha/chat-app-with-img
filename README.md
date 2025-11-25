@@ -4,6 +4,8 @@
 
 ### Tech Stack
 
+-   **[Axios](https://axios-http.com/)** Promise based HTTP client for the browser and node.js
+
 -   **[Cloudinary](https://cloudinary.com/)** Image and Video API Platform.
 
 -   **[daisyUI](https://daisyui.com/)** The Tailwind CSS plugin.
@@ -23,3 +25,5 @@
 -   **[Socket.IO](https://socket.io/)** is a JavaScript library that enables real-time communication between a client and a server.
 
 -   **[Tailwind CSS](https://tailwindcss.com/)** is a utility-first CSS framework.
+
+-   **[Zustand](https://zustand-demo.pmnd.rs/)** A global state management solution.

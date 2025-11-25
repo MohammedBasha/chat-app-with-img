@@ -6,6 +6,8 @@
 
 -   **[Cloudinary](https://cloudinary.com/)** Image and Video API Platform.
 
+-   **[daisyUI](https://daisyui.com/)** The Tailwind CSS plugin.
+
 -   **[Express.js](https://expressjs.com/)** a fast, unopinionated, minimalist web framework for Node.js
 
 -   **[JSON Web Token (JWT)](https://jwt.io/)** an open standard used to share security information.

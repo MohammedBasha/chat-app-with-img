@@ -16,7 +16,7 @@ router.post("/login", login);
 
 router.post("/logout", logout);
 
-router.put("/updateProfile", protectRoute, updateProfile);
+router.put("/update-profile", protectRoute, updateProfile);
 
 // checking if the user is authenticated when refreshing the application
 router.get("/check", protectRoute, checkAuth);

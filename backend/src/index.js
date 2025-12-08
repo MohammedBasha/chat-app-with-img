@@ -30,7 +30,7 @@ app.use(
 app.use("/api/auth", authRoutes);
 
 // Message routes
-app.use("/api/message", messageRoutes);
+app.use("/api/messages", messageRoutes);
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);

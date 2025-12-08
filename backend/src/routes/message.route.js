@@ -9,7 +9,7 @@ import {
 const router = express.Router();
 
 // Get users for sidebar
-router.get("/user", protectRoute, getUsersForSidebar);
+router.get("/users", protectRoute, getUsersForSidebar);
 
 // Get messages between two users
 router.get("/:id", protectRoute, getMessages);

@@ -1,4 +1,4 @@
-# Products Store
+# Chat App
 
 ## A Full Stack Real Time Chat App with Image Uploads with Socket.io, JWT, TailwindCSS, and MERN stack.
 

@@ -13,6 +13,8 @@ dotenv.config();
 // Now will delete this file later as socket.io server is moved to lib/socket.js
 // const app = express();
 
+const __dirname = path.resolve();
+
 const PORT = process.env.PORT || 5001;
 
 // Allow extracting json data out of the requests body

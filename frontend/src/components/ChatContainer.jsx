@@ -33,8 +33,6 @@ const ChatContainer = () => {
     ]);
 
     useEffect(() => {
-        console.log(messageEndRef);
-        console.log(messageEndRef.current);
         if (messageEndRef.current && messages) {
             messageEndRef.current.scrollIntoView({ behavior: "smooth" });
         }
